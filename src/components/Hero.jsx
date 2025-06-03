@@ -145,7 +145,7 @@ const Hero = () => {
           Passionate about building innovative tech and solving real-world problems through code.
         </Desc>
         <ButtonRow>
-          <Button href="2200031499-MERUVA LOKESH.pdf" target="_blank" rel="noopener noreferrer">Download Resume</Button>
+          <Button href="MERUVA LOKESH.pdf" target="_blank" rel="noopener noreferrer">Download Resume</Button>
           <ScrollLink to="contact" smooth={true} duration={600} offset={-60} className="button" style={{cursor:'pointer', fontWeight:700, borderRadius:'8px', background:'linear-gradient(90deg, var(--accent2), var(--accent))', color:'#fff', padding:'0.85rem 2.2rem', textDecoration:'none', transition:'background 0.2s, transform 0.18s'}} activeStyle={{background:'linear-gradient(90deg, var(--accent), var(--accent2))'}}>Contact Me</ScrollLink>
         </ButtonRow>
       </HeroText>
